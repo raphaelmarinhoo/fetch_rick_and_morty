@@ -1,0 +1,9 @@
+#characterName {
+  display: flexbox;
+  margin: 10px;
+}
+
+#characterImage {
+  display: flexbox;
+  margin: 10px;
+}
